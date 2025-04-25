@@ -1,6 +1,3 @@
-# AOT-THE-EPIC-ANIME
-Sure, Jay! Here's a detailed description of **Cloudinary**, along with sections for **adding links** and **how you used it in your Attack on Titan (AOT) website**.
-
 ---
 
 ## **What is Cloudinary?**
