@@ -134,5 +134,3 @@ Here are the links to some media I’m using on my AOT fan website via Cloudinar
 
 ### **Conclusion**:
 Cloudinary has been an essential tool for efficiently managing and optimizing media on my Attack on Titan website. Its easy-to-use platform for image and video hosting, along with powerful transformation and optimization features, significantly improved the site's performance and media management. By leveraging Cloudinary’s capabilities, I’ve been able to offer a **faster, visually appealing, and optimized experience** for users.
-
-Let me know if you need further details on how to integrate or manage Cloudinary!
